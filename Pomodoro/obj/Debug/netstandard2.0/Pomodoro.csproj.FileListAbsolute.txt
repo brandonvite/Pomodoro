@@ -1,0 +1,17 @@
+/Users/vitemx/Projects/Pomodoro/Pomodoro/bin/Debug/netstandard2.0/Pomodoro.deps.json
+/Users/vitemx/Projects/Pomodoro/Pomodoro/bin/Debug/netstandard2.0/Pomodoro.dll
+/Users/vitemx/Projects/Pomodoro/Pomodoro/bin/Debug/netstandard2.0/Pomodoro.pdb
+/Users/vitemx/Projects/Pomodoro/Pomodoro/obj/Debug/netstandard2.0/Pomodoro.csprojAssemblyReference.cache
+/Users/vitemx/Projects/Pomodoro/Pomodoro/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/vitemx/Projects/Pomodoro/Pomodoro/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/vitemx/Projects/Pomodoro/Pomodoro/obj/Debug/netstandard2.0/Pomodoro.csproj.CoreCompileInputs.cache
+/Users/vitemx/Projects/Pomodoro/Pomodoro/obj/Debug/netstandard2.0/Pomodoro.AssemblyInfoInputs.cache
+/Users/vitemx/Projects/Pomodoro/Pomodoro/obj/Debug/netstandard2.0/Pomodoro.AssemblyInfo.cs
+/Users/vitemx/Projects/Pomodoro/Pomodoro/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/vitemx/Projects/Pomodoro/Pomodoro/obj/Debug/netstandard2.0/Pomodoro.dll
+/Users/vitemx/Projects/Pomodoro/Pomodoro/obj/Debug/netstandard2.0/Pomodoro.pdb
+/Users/vitemx/Projects/Pomodoro/Pomodoro/obj/Debug/netstandard2.0/RootPage.xaml.g.cs
+/Users/vitemx/Projects/Pomodoro/Pomodoro/obj/Debug/netstandard2.0/RootPageDetail.xaml.g.cs
+/Users/vitemx/Projects/Pomodoro/Pomodoro/obj/Debug/netstandard2.0/RootPageMaster.xaml.g.cs
+/Users/vitemx/Projects/Pomodoro/Pomodoro/obj/Debug/netstandard2.0/Views/ConfigurationPage.xaml.g.cs
+/Users/vitemx/Projects/Pomodoro/Pomodoro/obj/Debug/netstandard2.0/Views/PomodoroPage.xaml.g.cs
