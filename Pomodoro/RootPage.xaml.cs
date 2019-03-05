@@ -24,6 +24,12 @@ namespace Pomodoro
                 Detail = new NavigationPage(new PomodoroPage());
                 IsPresented = false;
             });
+
+            MessagingCenter.Subscribe<RootPageViewModel>(this, "GoToHistorico", (a) =>
+            {
+                Detail = new NavigationPage(new HistoryPage());
+                IsPresented = false;
+            });
         }
 
         //private void ListView_ItemSelected(object sender, SelectedItemChangedEventArgs e)

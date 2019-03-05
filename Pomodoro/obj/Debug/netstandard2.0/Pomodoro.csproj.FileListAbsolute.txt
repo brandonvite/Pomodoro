@@ -15,3 +15,4 @@
 /Users/vitemx/Projects/Pomodoro/Pomodoro/obj/Debug/netstandard2.0/RootPageMaster.xaml.g.cs
 /Users/vitemx/Projects/Pomodoro/Pomodoro/obj/Debug/netstandard2.0/Views/ConfigurationPage.xaml.g.cs
 /Users/vitemx/Projects/Pomodoro/Pomodoro/obj/Debug/netstandard2.0/Views/PomodoroPage.xaml.g.cs
+/Users/vitemx/Projects/Pomodoro/Pomodoro/obj/Debug/netstandard2.0/Views/HistoryPage.xaml.g.cs

@@ -36,12 +36,14 @@
 /Users/vitemx/Projects/Pomodoro/Pomodoro.Android/obj/Debug/uploadflags.txt
 /Users/vitemx/Projects/Pomodoro/Pomodoro.Android/bin/Debug/FormsViewGroup.pdb
 /Users/vitemx/Projects/Pomodoro/Pomodoro.Android/bin/Debug/Mono.Android.pdb
+/Users/vitemx/Projects/Pomodoro/Pomodoro.Android/bin/Debug/Newtonsoft.Json.pdb
 /Users/vitemx/Projects/Pomodoro/Pomodoro.Android/bin/Debug/Xamarin.Forms.Core.pdb
 /Users/vitemx/Projects/Pomodoro/Pomodoro.Android/bin/Debug/Xamarin.Forms.Platform.Android.pdb
 /Users/vitemx/Projects/Pomodoro/Pomodoro.Android/bin/Debug/Xamarin.Forms.Xaml.pdb
 /Users/vitemx/Projects/Pomodoro/Pomodoro.Android/obj/Debug/linksrc/Pomodoro.Android.pdb
 /Users/vitemx/Projects/Pomodoro/Pomodoro.Android/obj/Debug/linksrc/FormsViewGroup.pdb
 /Users/vitemx/Projects/Pomodoro/Pomodoro.Android/obj/Debug/linksrc/Mono.Android.pdb
+/Users/vitemx/Projects/Pomodoro/Pomodoro.Android/obj/Debug/linksrc/Newtonsoft.Json.pdb
 /Users/vitemx/Projects/Pomodoro/Pomodoro.Android/obj/Debug/linksrc/Pomodoro.pdb
 /Users/vitemx/Projects/Pomodoro/Pomodoro.Android/obj/Debug/linksrc/Xamarin.Forms.Core.pdb
 /Users/vitemx/Projects/Pomodoro/Pomodoro.Android/obj/Debug/linksrc/Xamarin.Forms.Platform.Android.pdb

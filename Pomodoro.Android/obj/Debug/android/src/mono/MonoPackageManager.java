@@ -107,7 +107,9 @@ class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
 		/* We need to ensure that "Pomodoro.Android.dll" comes first in this list. */
 		"Pomodoro.Android.dll",
+		"com.refractored.monodroidtoolkit.dll",
 		"FormsViewGroup.dll",
+		"Newtonsoft.Json.dll",
 		"Pomodoro.dll",
 		"Xamarin.Android.Arch.Core.Common.dll",
 		"Xamarin.Android.Arch.Lifecycle.Common.dll",
