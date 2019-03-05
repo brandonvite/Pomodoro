@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{61238B47-A2F3-4D97-B8CC-99E1D0FBB529}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pomodoro/Views/ConfigurationPage.xaml">
+    <Files>
+      <File FileName="Pomodoro/ViewModels/PomodoroPageViewModel.cs" Line="89" Column="46" />
+      <File FileName="Pomodoro/ViewModels/ConfigurationPageViewModel.cs" Line="46" Column="14" />
+      <File FileName="Pomodoro/Literals.cs" Line="8" Column="50" />
+      <File FileName="Pomodoro/Views/PomodoroPage.xaml" Line="41" Column="1" />
+      <File FileName="Pomodoro/Views/HistoryPage.xaml" Line="10" Column="50" />
+      <File FileName="Pomodoro/Views/HistoryPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="Pomodoro/ViewModels/HistoryPageViewModel.cs" Line="36" Column="10" />
+      <File FileName="Pomodoro/ViewModels/RootPageViewModel.cs" Line="60" Column="62" />
+      <File FileName="Pomodoro/RootPage.xaml.cs" Line="29" Column="1" />
+      <File FileName="Pomodoro/Controls/CircularProgress.cs" Line="15" Column="58" />
+      <File FileName="Pomodoro.Android/Renderers/CircularProgressRenderer.cs" Line="14" Column="91" />
+      <File FileName="Pomodoro/Views/ConfigurationPage.xaml" Line="25" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Pomodoro" expanded="True">
+            <Node name="Pomodoro" expanded="True">
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="ConfigurationPage.xaml" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Pomodoro.Android" expanded="True">
+              <Node name="Renderers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Pomodoro.Android PreferredExecutionTarget="Android.8DM0218A07000329" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
